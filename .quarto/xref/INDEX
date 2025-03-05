@@ -1,0 +1,80 @@
+{
+  "index.qmd": {
+    "index.html": "0ed119a1"
+  },
+  "egresados/index.qmd": {
+    "index.html": "300dacde"
+  },
+  "estudiantes-actuales/index.qmd": {
+    "index.html": "d7d75f44"
+  },
+  "futuros-estudiantes/index.qmd": {
+    "index.html": "fe3ff1da"
+  },
+  "nuestro-programa/oportunidades-profesionales.qmd": {
+    "oportunidades-profesionales.html": "3972554b"
+  },
+  "nuestro-programa/plan-de-estudios.qmd": {
+    "plan-de-estudios.html": "38bd40e2"
+  },
+  "nuestro-programa/admisiones.qmd": {
+    "admisiones.html": "2fbd4ae3"
+  },
+  "nuestro-programa/index.qmd": {
+    "index.html": "853fe19e"
+  },
+  "nuestro-programa/apoyo-estudiantil.qmd": {
+    "apoyo-estudiantil.html": "c1659f74"
+  },
+  "nuestro-programa/perfil-egresado.qmd": {
+    "perfil-egresado.html": "96916ae3"
+  },
+  "nuestro-programa/profesorado/index.qmd": {
+    "index.html": "d43558ee"
+  },
+  "contacto.qmd": {
+    "contacto.html": "4b87c74c"
+  },
+  "legales/accesibilidad.qmd": {
+    "accesibilidad.html": "52ff967a"
+  },
+  "legales/privacidad.qmd": {
+    "privacidad.html": "62a1a224"
+  },
+  "legales/terminos-uso.qmd": {
+    "terminos-uso.html": "9d2a342c"
+  },
+  "legales/index.qmd": {
+    "index.html": "d9475cf7"
+  },
+  "noticias-eventos/noticia-2.qmd": {
+    "noticia-2.html": "d7e57b60"
+  },
+  "noticias-eventos/noticia-1.qmd": {
+    "noticia-1.html": "80e0c8d2"
+  },
+  "noticias-eventos/index.qmd": {
+    "index.html": "1949cf57"
+  },
+  "buscar.qmd": {
+    "buscar.html": "699268c5"
+  },
+  "donaciones.qmd": {
+    "donaciones.html": "4ed0fb73"
+  },
+  "vida-estudiantil/organizaciones-estudiantiles.qmd": {
+    "organizaciones-estudiantiles.html": "cd9e1120"
+  },
+  "vida-estudiantil/testimonios.qmd": {
+    "testimonios.html": "3119e5b6"
+  },
+  "vida-estudiantil/galeria.qmd": {
+    "galeria.html": "92af0d4a"
+  },
+  "vida-estudiantil/index.qmd": {
+    "index.html": "224de4d0"
+  },
+  "vida-estudiantil/eventos-extracurriculares.qmd": {
+    "eventos-extracurriculares.html": "ccb2d544"
+  }
+}

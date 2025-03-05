@@ -1,0 +1,66 @@
+---
+page-layout: custom
+section-divs: true
+toc: false
+css: assets/ath.scss
+---
+
+::: {.hero-banner}
+
+::: {.content-block}
+
+::: {.hero-text}
+
+# ¡Bienvenido a la Carrera de Matemáticas!
+
+> Un programa innovador y desafiante para mentes curiosas y apasionadas por el razonamiento lógico y la resolución de problemas.
+
+## ¿Por qué estudiar Matemáticas en con nosotros?
+
+Te ofrecemos:
+
+*   **Una formación rigurosa y completa:**  Un plan de estudios que abarca las áreas fundamentales de la matemática pura y aplicada, con énfasis en el desarrollo del pensamiento crítico y la capacidad de abstracción.
+*   **Un profesorado de excelencia:**  Docentes altamente calificados, investigadores activos en diversas áreas de la matemática, comprometidos con la enseñanza y la mentoría estudiantil.
+*   **Y amplias oportunidades profesionales:**  Los graduados en matemáticas son altamente demandados en diversos sectores como la academia, la industria, las finanzas, la tecnología y la consultoría.
+
+
+
+# Explora nuestro sitio web
+
+Visita las siguientes secciones para conocer más sobre nuestra carrera:
+
+- [**Nuestro Programa**](nuestro-programa/index.qmd):  Plan de estudios, perfil del egresado, profesorado, investigación y admisiones.
+- [**Vida Estudiantil**](vida-estudiantil/index.qmd):  Organizaciones estudiantiles, eventos y actividades extracurriculares.
+- [**Noticias y Eventos**](noticias-eventos/index.qmd):  Mantente al día con las últimas novedades del departamento.
+- [**Contacto**](contacto.qmd):  Comunícate con nosotros para resolver tus dudas.
+
+# Noticias Recientes
+
+::: {.grid}
+
+::: {.g-col-6}
+### Seminario de Álgebra Abstracta
+
+**Fecha:** 15 de Marzo de 2024
+
+Invitado especial: Dr. [Nombre del Investigador]
+
+[Leer más...](noticias-eventos/noticia-1.qmd)
+:::
+
+::: {.g-col-6}
+### Estudiantes ganan concurso de modelado matemático
+
+Felicitaciones a nuestros estudiantes por su destacada participación en el reciente concurso...
+
+[Leer más...](noticias-eventos/noticia-2.qmd)
+:::
+
+:::
+
+## Acreditaciones y Reconocimientos
+
+[attachment_1](attachment)  [attachment_2](attachment)
+:::
+:::
+:::

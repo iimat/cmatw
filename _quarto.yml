@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Carrera de Matemática"
+  favicon: assets/logo-carrera-matematicas.png # Opcional: Favicon
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - text: Nuestro Programa
+        href: nuestro-programa/index.qmd
+      - text: Profesorado
+        href: nuestro-programa/profesorado/index.qmd # Asumiendo que Profesorado está dentro de Nuestro Programa
+      - text: Investigación
+        href: nuestro-programa/investigacion/index.qmd # Asumiendo que Investigación está dentro de Nuestro Programa
+      - text: Admisiones
+        href: nuestro-programa/admisiones.qmd # Asumiendo que Admisiones está dentro de Nuestro Programa
+      - text: Vida Estudiantil
+        href: vida-estudiantil/index.qmd
+      - text: Noticias y Eventos
+        href: noticias-eventos/index.qmd
+      - text: Contacto
+        href: contacto.qmd
+    right: # Opcional: elementos a la derecha de la barra de navegación
+      - icon: github # Ejemplo: icono de GitHub (requiere configuración adicional de iconos)
+        href: https://github.com/tu-repositorio-github # Reemplaza con el repositorio de GitHub del departamento
+
+
+format:
+  html:
+    theme: cosmo # Tema de Bootstrap (puedes elegir otro o personalizarlo)
+    css: assets/ath.scss # Opcional: Hoja de estilos CSS personalizada
+    toc: false # Opcional: Desactivar la tabla de contenidos por defecto en las páginas (puedes activarla individualmente si es necesario)
